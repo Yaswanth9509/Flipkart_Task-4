@@ -1,0 +1,38 @@
+
+MARITIME FLEET ANALYTICS - EXECUTIVE SUMMARY
+Generated: 2026-01-03 20:33:59
+
+OVERVIEW
+--------
+Total Records: 20
+Vessels Analyzed: 2
+Date Range: 2025-12-04 20:33:59.274777 to 2025-12-05 05:33:59.274777
+
+KEY METRICS
+-----------
+Average Speed: 9.67 knots
+Fuel Efficiency: 25.7%
+Engine Health: 70.8%
+Storm Risk Index: 34.7
+
+FINANCIAL
+---------
+Total Maintenance Cost: $24,971
+Total Repair Hours: 256
+
+RISK ASSESSMENT
+---------------
+Low Risk Vessels: 2
+Medium Risk Vessels: 0
+High Risk Vessels: 0
+
+HIGH RISK VESSELS
+-----------------
+None
+
+RECOMMENDATIONS
+---------------
+1. Review high-risk vessels for maintenance
+2. Implement fuel efficiency optimization
+3. Monitor storm conditions closely
+4. Schedule preventive maintenance proactively

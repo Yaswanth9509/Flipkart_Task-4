@@ -1,0 +1,11 @@
+Vessel_ID,Type,Engine_Power_HP,Fuel_Type,Load_Capacity_Tons,Max_Depth_m
+VSL-100,Cargo,48718,Marine Diesel,22666,0
+VSL-101,Submarine,50764,Heavy Fuel Oil,106221,482
+VSL-102,Naval,79408,Marine Diesel,107138,0
+VSL-103,Submarine,22630,Nuclear,75549,732
+VSL-104,Cargo,66695,Nuclear,51233,0
+VSL-105,Submarine,39076,Nuclear,122639,739
+VSL-106,Naval,43129,Nuclear,97598,0
+VSL-107,Cargo,36864,Heavy Fuel Oil,127025,0
+VSL-108,Submarine,6718,Heavy Fuel Oil,196552,654
+VSL-109,Cargo,74942,Marine Diesel,128921,0
