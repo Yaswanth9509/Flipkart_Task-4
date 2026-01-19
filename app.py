@@ -1,3 +1,15 @@
+# Original Code by Vangara Yaswanth Sai 
+# Built for Flipkart Task-4 Maritime Performance Analytics & Sea-Route Risk Assessment System for Ships/Submarines
+# Task Given :- Build an end-to-end data analytics pipeline that integrates multiple marine datasets to analyze:
+#Ship/submarine performance
+#Fuel consumption & engine efficiency
+#Sea-route risk levels
+#Weather impact
+#Navigation delays
+#Maintenance patterns
+#Ocean depth vs speed analysis
+#This is a pure Data Science project (no machine learning required unless you want optional ML).
+# Date(Last Updated): 17-01-2026  
 """
 Maritime Analytics - Interactive Main Application
 User-friendly CLI for data pipeline orchestration
@@ -306,3 +318,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
