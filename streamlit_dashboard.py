@@ -18,23 +18,12 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# Custom CSS for better styling
+# Custom CSS - minimal styling that works in both light and dark mode
 st.markdown("""
     <style>
-    .main {
-        background-color: #f5f7fa;
-    }
     .stMetric {
-        background-color: white;
-        padding: 15px;
-        border-radius: 10px;
-        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    }
-    h1 {
-        color: #1e3a8a;
-    }
-    h2 {
-        color: #2563eb;
+        padding: 10px;
+        border-radius: 5px;
     }
     </style>
 """, unsafe_allow_html=True)
