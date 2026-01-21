@@ -48,7 +48,7 @@ class InteractiveApp:
         print("\n" + "-"*70)
         print("MAIN MENU")
         print("-"*70)
-        print("1. Quick Analysis (Generate Data → Analyze → Report)")
+        print("1. Quick Analysis (Generate Data -> Analyze -> Report)")
         print("2. Load Your Own Data")
         print("3. Advanced Options")
         print("4. Launch Dashboard")
@@ -255,7 +255,7 @@ class InteractiveApp:
         print("\nStarting Streamlit dashboard...")
         print("(Browser will open automatically)\n")
         
-        os.system(f"streamlit run {dashboard_path}")
+        os.system(f'streamlit run "{dashboard_path}"')
     
     def _get_integer_input(self, prompt, default, min_val=1, max_val=None):
         """Get validated integer input"""
@@ -318,4 +318,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
