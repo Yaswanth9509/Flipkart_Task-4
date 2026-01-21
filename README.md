@@ -18,6 +18,7 @@ This system automates the analysis of maritime fleet operations by:
 ```
 .
 ├── app.py                           # Main interactive application entry point
+|-- streamlit_dashboard.py           # Launch the Streamlit Dashboard 
 ├── core_data_pipeline.py            # Data generation and integration module
 ├── analytics_engine.py              # Metrics calculation and analysis engine
 ├── output_manager.py                # Reporting and data validation module
@@ -331,3 +332,4 @@ For issues or questions:
 ---
 
 **Maritime Fleet Performance Analytics** - Comprehensive Maritime Operations Intelligence
+
